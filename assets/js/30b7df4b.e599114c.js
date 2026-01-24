@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[3703],{43564:e=>{e.exports=JSON.parse('{"tag":{"label":"api","permalink":"/tags/api","allTagsPath":"/tags","count":1,"items":[{"id":"docs/core/openapi/usage","title":"Usage","description":"This section explores the Strapi OpenAPI toolset","permalink":"/openapi/usage"}],"unlisted":false}}')}}]);

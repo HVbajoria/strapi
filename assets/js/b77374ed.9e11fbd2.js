@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[8422],{4875:e=>{e.exports=JSON.parse('{"tag":{"label":"cheatsheet","permalink":"/tags/cheatsheet","allTagsPath":"/tags","count":1,"items":[{"id":"guides/type-system/cheatsheet","title":"CheatSheet","description":"Common Use Cases","permalink":"/guides/type-system/cheatsheet"}],"unlisted":false}}')}}]);

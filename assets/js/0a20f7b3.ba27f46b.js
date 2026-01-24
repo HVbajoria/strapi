@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[7052],{7822:a=>{a.exports=JSON.parse('{"tag":{"label":"global","permalink":"/tags/global","allTagsPath":"/tags","count":1,"items":[{"id":"api/Strapi","title":"Strapi (WIP)","description":"Current state: Stable","permalink":"/api/Strapi"}],"unlisted":false}}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[9854],{46550:s=>{s.exports=JSON.parse('{"tag":{"label":"philosophy","permalink":"/tags/philosophy","allTagsPath":"/tags","count":1,"items":[{"id":"guides/type-system/philosophy","title":"Philosophy","description":"Context","permalink":"/guides/type-system/philosophy"}],"unlisted":false}}')}}]);
